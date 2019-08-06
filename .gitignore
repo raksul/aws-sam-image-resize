@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+.envrc
+
+# AWS SAM
+packaged.yaml
+image-resize/image-resize
